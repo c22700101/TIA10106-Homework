@@ -21,7 +21,7 @@ public class HW1 {
 		 days = hours/24;
 		hours = hours%24;
 		System.out.println("為" +days+"天");
-		
+		//
 		
 		
 	}
